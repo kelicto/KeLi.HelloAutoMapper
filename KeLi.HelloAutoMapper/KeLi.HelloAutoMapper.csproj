@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8325466A-0605-4BC8-8D08-83705315A30A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KeLi.HelloAutoMapper.App</RootNamespace>
-    <AssemblyName>KeLi.HelloAutoMapper.App</AssemblyName>
+    <RootNamespace>KeLi.HelloAutoMapper</RootNamespace>
+    <AssemblyName>KeLi.HelloAutoMapper</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

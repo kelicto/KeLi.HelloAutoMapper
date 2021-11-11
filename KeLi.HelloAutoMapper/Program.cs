@@ -1,4 +1,4 @@
-﻿namespace KeLi.HelloAutoMapper.App
+﻿namespace KeLi.HelloAutoMapper
 {
     internal class Program
     {
